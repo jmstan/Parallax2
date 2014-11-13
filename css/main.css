@@ -150,7 +150,7 @@ main {
 }
 /* Slide 1 */
 #slide-1 .bcg {
-    background-image:url('/img/bcg_slide-1.jpg');
+    background-image:url('../img/bcg_slide-1.jpg');
 }
 
 /* Slide 2 */
